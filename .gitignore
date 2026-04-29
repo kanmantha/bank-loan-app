@@ -1,0 +1,67 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.dll
+*.pdb
+*.mdb
+*.ldf
+*.mdf
+*.log
+App_Data/
+appsettings.*.json
+secrets.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.opendb
+*.VC.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build
+dist/
+build/
+.vite/
+
+# React
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing
+coverage/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# SQL Server
+*.bak
+*.trn
+
+# Logs
+logs/
+*.log
